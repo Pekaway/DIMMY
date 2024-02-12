@@ -14,6 +14,17 @@
 - 4x onboard standard ATO fuses
 - I2C support
 
+
+
+## integration function overview
+
+|                |Standalone |Wired |Wifi PekawayMOTA | 
+|----------------|-------------------------|----------------------|----|
+|dim| yes via gpio button        |yes via VAN PI OS (I2C)          |yes via MQTT|
+|GPIO BUTTON| yes only for dimming        |no        | possible -> need setup in Tasmota |
+|Tempsensor| no   |no  | via MQTT 1-Wire DS18b20 |
+|ESP32 Wemos| yes   |no  | yes |
+
 ## Software
 
 ### Wired (I2C)([Quickstart](/Quickstarts/Dimmy/ENG/VPI-DIM-PCB_ENG_WIRED.pdf)): 
