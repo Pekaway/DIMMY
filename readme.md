@@ -25,8 +25,8 @@
 ### Wired (I2C)([Quickstart](/Quickstarts/Dimmy/ENG/VPI-DIM-PCB_ENG_WIRED.pdf)): 
 Connect the Dimmy PCB to the VAN PI Relayboard via JST PH 4pin cable and it will work directly. (Using VAN PI OS) 
 
-### Standalone ([Quickstart](/Quickstarts/Dimmy/ENG/VPI-DIM-PCB_ENG_Standalone.pdf)):
-Control the 7 Channel via GPIO button/switches. 
+### Standalone (ESP32-WEMOS) ([Quickstart](/Quickstarts/Dimmy/ENG/VPI-DIM-PCB_ENG_Standalone.pdf)):
+Control the 7 Channel via GPIO button/switches 
 - supports dimming by keeping pressed
 - sleep timer (long pressing while active)
   
@@ -40,7 +40,7 @@ Control the 7 Channel via GPIO button/switches.
 - S8 –> LED 7
  
 
- ### WiFi ([Quickstart](/Quickstarts/Dimmy/ENG/ENG_PekawayDIMMY_WIFI.pdf)): 
+ ### WiFi (ESP32-WEMOS)([Quickstart](/Quickstarts/Dimmy/ENG/ENG_PekawayDIMMY_WIFI.pdf)): 
 Connect the Dimmy via WiFi to the VAN PI. (Using VAN PI OS) 
 
 ### Pekaway Mota Wemos d1 (Esp8266/Esp32): 
