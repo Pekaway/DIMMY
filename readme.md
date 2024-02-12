@@ -1,12 +1,7 @@
 
-# Dimmy Version 1
-**OBSOLET**
 
-- 7 Channel Mosfet (6x3A + 1x10A)
-- PCA9685 
-- Wemos d1/Wemos Esp32 
 
-# Dimmy Version 2 ([Shop](https://vanpi.de/products/van-pi-dimmy-pcb))
+# Dimmy ([Shop](https://vanpi.de/products/van-pi-dimmy-pcb))
 
 - 7 Channel Mosfet (6x3A + 1x10A)
 - PCA9685 
